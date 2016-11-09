@@ -11,5 +11,5 @@ Ways to view the notebook
 - [GitHub](https://github.com/brettcannon/porting-to-python-3-notebook/blob/master/Porting%20Python%202%20code%20to%20Python%203.ipynb)
 - [nbviewer](http://nbviewer.jupyter.org/github/brettcannon/porting-to-python-3-notebook/blob/master/Porting%20Python%202%20code%20to%20Python%203.ipynb)
 - [Save the notebook](https://raw.githubusercontent.com/brettcannon/porting-to-python-3-notebook/master/Porting%20Python%202%20code%20to%20Python%203.ipynb) and upload to [tmpnb](https://tmpnb.org)
-- binder (coming soon)
+- [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/brettcannon/porting-to-python-3-notebook)
 - Microsoft Azure Notebooks (coming soon)
